@@ -15,9 +15,6 @@ The app itself is rather simple, as the name suggests. It is just a small calcul
 
 > The app is **not** available on App Store or Google Play, just locally on own device via Xcode
 
-<br />
-
-<hr />
 
 <br />
 
