@@ -1,38 +1,47 @@
 <p align="center">
-  <img src="assets/logo.png" style="max-width: 400px; width: 100%;" />
+  <img src="assets/logo.png" width="500" />
 </p>
 <hr />
 
-<div style="margin: 30px 0 40px 0;">
+<br />
+
 An iPhone (and Android) application developed in React Native using TypeScript.
+  
+<br />
 
 The app itself is rather simple, as the name suggests. It is just a small calculator app that supports addition, subtraction, multiplication and division, both with integers and with decimal numbers. The app rounds decimal numbers to 4 digits, and the maximum input length is 8 digits.
 
+<br />
+
 > The app is **not** available on App Store or Google Play, just locally on own device via Xcode
 
-</div>
+<br />
 
-<hr style="margin: 50px 0 50px 0;"/>
+<hr />
+
+<br />
 
 ## 📱 - Mockup images
 
 <p align="center">
-  <img src="assets/mockups/loading_screen.png" style="max-width: 300px; width: 100%;" />
+  <img src="assets/mockups/loading_screen.png" width="350" />
 </p>
 
 <p align="center">
-  <img src="assets/mockups/home_screen.png" style="max-width: 300px; width: 100%;" />
+  <img src="assets/mockups/home_screen.png" width="350" />
 </p>
 
 <p align="center">
-  <img src="assets/mockups/input.png" style="max-width: 300px; width: 100%;" />
+  <img src="assets/mockups/input.png" width="350" />
 </p>
 
 <p align="center">
-  <img src="assets/mockups/result.png" style="max-width: 300px; width: 100%;" />
+  <img src="assets/mockups/result.png" width="350" />
 </p>
 
-<hr style="margin: 50px 0 50px 0;"/>
+<hr />
+
+<br />
 
 ## 💻 - How to run
 
@@ -43,7 +52,10 @@ After cloning the project, first run the following command:
 npm install
 ```
 
+<br />
+
 Then choose one of the following options:
+
 
 ### **Approach 1** - on iOS Simulator
 
@@ -52,6 +64,7 @@ Then choose one of the following options:
 # (requires Xcode)
 npm start
 ```
+
 
 ### **Approach 2** - with Expo
 
@@ -65,6 +78,7 @@ npm start
 
 ```
 
+
 ### **Approach 3** - on Device (requires Xcode)
 
 1. Make sure to have Xcode installed
@@ -74,9 +88,15 @@ npm start
 5. Make sure your device is selected as "simulator"
 6. Press Build and Run, then wait for app to install
 
+<br />
+
 For more detailed instructions, see [Apple's website](https://help.apple.com/xcode/mac/current/#/dev60b6fbbc7)
 
-<hr style="margin: 50px 0 50px 0;"/>
+<br />
+
+<hr />
+
+<br />
 
 ## 🔨 - Technologies
 
@@ -86,6 +106,8 @@ For more detailed instructions, see [Apple's website](https://help.apple.com/xco
 - Node (for packages)
 - Xcode (for tweaking production settings)
 - Figma (for design)
+
+<br />
 
 ## 👨‍🔧 - Developer info
 
